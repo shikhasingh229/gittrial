@@ -1,2 +1,2 @@
 # gittrial
-This is a trial project
+https://shikhasingh229.github.io/gittrial/
